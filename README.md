@@ -3,8 +3,7 @@
 Este repositório contém os arquivos relacionados à implantação do PortfolioHUB com integração do Google Workspace e suporte da IA Google GEMINI.
 
 ## 📌 Estrutura do Projeto
-- `/docs`: Documentos do projeto
-- `/src`: Código fonte e configurações
+- [`/docs`](https://docs.google.com/document/d/12-AGQLGFu3DN9Z9cRkW3GAfzDWcwWL3wwoKUo7qklWM/edit?tab=t.0): Documentos do projeto
 - `README.md`: Explicações e instruções
 
 ## 🔗 Integrações
